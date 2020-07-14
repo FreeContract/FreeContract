@@ -1,6 +1,6 @@
 # FreeContract
 * Web site : [https://www.freecontact.io](https://www.freecontact.io)	
-* Docs : [http://localhost:3000/#/docs](http://localhost:3000/#/docs)	
+* Docs : [http://www.freecontact.io/#/docs](http://www.freecontact.io/#/docs)	
 
 *Free Contract (FC) is an open source and transparent blockchain application DAPP , developed based on the Ethereum main network. Is a distributed, fair, and just smart contract financial practical management game.*
 
